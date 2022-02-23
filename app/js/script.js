@@ -13,4 +13,5 @@ function changeColor(){
 function primaryColor(){
     document.getElementById('title').style.color = "white";
     document.getElementById('title').style.fontFamily = "Times New Roman";
+    
 }
